@@ -1,1 +1,8 @@
 pandas
+numpy
+io
+webbrowser
+plotly
+fastapi
+uvicorn
+matplotlib
